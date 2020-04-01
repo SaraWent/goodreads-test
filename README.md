@@ -2,6 +2,9 @@
 
 TESTING TESTING THIS IS NOT MY CODE
 
+sucessful deployment:
+https://sarawent.github.io/goodreads-test/
+
 This application uses goodreads api to look for books by title, author or isbn code.
 
 This project was bootstrapped with `create-react-app` and deployed live at https://goodreads-react.herokuapp.com/
