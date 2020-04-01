@@ -2,7 +2,7 @@
   "name": "goodreads-reactjs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://SaraWent.github.io/goodreads-test/",
+  "homepage": "https://sarawent.github.io/goodreads-test/",
   "dependencies": {
     "axios": "^0.18.1",
     "react": "^16.5.2",
